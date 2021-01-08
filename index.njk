@@ -5,11 +5,8 @@ eleventyNavigation:
   order: 1
 ---
 
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+<h2>East Bay Biosecurity brings together early-career professionals, graduate students, and other curious researchers to explore biosecurity and pandemic preparedness.</h2>
 
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
+<p>After a hiatus, we’re in the process of restarting East Bay Biosecurity meetups remotely. Members will meet for around an hour a month to discuss current issues in biosecurity and to give and receive feedback on their projects.</p>
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<p>If you’re interested in attending, please fill out this form. You can contact us at eastbaybiosec@gmail.com with any questions.</p>
