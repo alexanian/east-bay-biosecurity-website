@@ -8,9 +8,9 @@ eleventyNavigation:
 
 East Bay Biosecurity was founded in January 2018 by a group of students and early-career professionals looking for a way to discuss biosecurity issues even when that wasn’t the primary focus of our research and careers.
 
-The group hosted regular events at the Berkeley REACH from 2018-2019. The group was funded by an Center for Effective Altruism Community-Building grant, which also allowed us to send organizers to biosecurity-related conferences. In 2020, the organizing team took a break to focus on Catalyst Biosummit, and then the COVID-19 pandemic made it unwise to host an in-person meetup group.
+The group hosted regular events at [The Berkeley REACH](https://www.berkeleyreach.org/) from 2018-2019. The group was funded by an Center for Effective Altruism [Community-Building Grant](https://forum.effectivealtruism.org/posts/RZrikMAuTwt4e9Fs4/ea-community-building-grants-update), which also allowed us to send organizers to biosecurity-related conferences. In 2020, the organizing team took a break to focus on [Catalyst Biosummit](https://catalystbiosummit.com), and then the COVID-19 pandemic made it unwise to host an in-person meetup group.
 
-Now, a somewhat reconstituted team is restarting the East Bay Biosecurity events in a virtual capacity! If you’re interested in attending, please fill out this form.
+Now, a somewhat reconstituted team is restarting the East Bay Biosecurity events in a virtual capacity! If you’re interested in attending, please [fill out this form](https://forms.gle/XmoEDqz1NHmwZ9AC7).
 
 ## Organizers
 
