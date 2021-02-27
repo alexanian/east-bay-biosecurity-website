@@ -20,6 +20,9 @@ body {
   line-height: 1.67em;
   color: var(--darkgray);
   background-color: var(--white);
+  /* Trick for avoiding FUOC from https://petrey.co/ */
+  visibility: visible;
+  opacity: 1;
 }
 p:last-child {
   margin-bottom: 0;
