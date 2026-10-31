@@ -1,6 +1,7 @@
 # eastbaybiosecurity.org is retired; everything redirects to the archive on tessa.fyi.
 [build]
   publish = "public"
+  command = "echo redirect-only site, nothing to build"
 
 [[redirects]]
   from = "/blog/defcon-biohacking-genetic-privacy/*"
